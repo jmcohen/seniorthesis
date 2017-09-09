@@ -1,2 +1,0 @@
-# seniorthesis
-undergrad thesis
